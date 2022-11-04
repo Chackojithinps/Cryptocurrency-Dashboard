@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.cf8b517e.css",
-    "main.js": "/static/js/main.494144aa.js",
+    "main.js": "/static/js/main.63a72b91.js",
     "static/media/cryptoMobile.png": "/static/media/cryptoMobile.080029ada53f0cd57453.png",
     "static/media/blueShade.png": "/static/media/blueShade.571b4abb2c77974f6433.png",
     "index.html": "/index.html",
     "main.cf8b517e.css.map": "/static/css/main.cf8b517e.css.map",
-    "main.494144aa.js.map": "/static/js/main.494144aa.js.map"
+    "main.63a72b91.js.map": "/static/js/main.63a72b91.js.map"
   },
   "entrypoints": [
     "static/css/main.cf8b517e.css",
-    "static/js/main.494144aa.js"
+    "static/js/main.63a72b91.js"
   ]
 }
